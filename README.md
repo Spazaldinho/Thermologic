@@ -50,10 +50,6 @@ where $h_1$ is the inlet enthalpy, $h_2$ is the actual outlet enthalpy, and $h_{
 ### Installation
 
 1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
-    ```
 
 2.  **Install the required Python libraries:**
     ```bash
